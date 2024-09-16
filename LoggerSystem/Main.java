@@ -5,8 +5,8 @@ public class Main {
         Logger logger2 = Logger.getInstance();
 
         // Step 6: Log some messages
-        logger1.log("This is the first log message.");
-        logger2.log("This is the second log message.");
+        logger1.log("Hello guys! This is the first log message i am writing for ,my GitHub repository named AOOP created by the user "raahuldatta".");
+        logger2.log("And this is the second log message.");
 
         // Check if logger1 and logger2 refer to the same instance
         if (logger1 == logger2) {
